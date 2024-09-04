@@ -2,3 +2,7 @@ server:
   port: 8888
   servlet:
     context-path: /zhu
+
+spring:
+  banner:
+    location: banner.txt
