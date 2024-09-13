@@ -1,0 +1,12 @@
+
+logging:
+  file:
+    path: ./logs/my-log.log
+  logback:
+    rolling policy:
+      max-file-size: 1KB
+      max-history: 30
+  pattern:
+    console: '%yellow(%d{HH:m:ss}) %green([%thread]) %highlight(%-5level) %boldMagenta(%logger{10})- %cyan(%msg%n)'
+server:
+  port: 8080

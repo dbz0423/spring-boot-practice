@@ -23,9 +23,4 @@ public class BookController {
         return bookService.getAllBooks();
     }
 
-    @GetMapping
-    public List<BookDTO> getadsfasdfsdAllBooks() {
-        return bookService.getAllBooks();
-    }
-
 }

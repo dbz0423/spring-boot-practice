@@ -10,7 +10,7 @@ import top.zhu.springboot.quickstart.service.MeetingService;
 
 @RestController
 @RequestMapping("/meetings")
-public class MeetingController {
+public class  MeetingController {
     private final MeetingService meetingService;
 
     public MeetingController(MeetingService meetingService) {

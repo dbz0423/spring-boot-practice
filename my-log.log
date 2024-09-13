@@ -1,0 +1,130 @@
+2024-09-09T19:45:46.240+08:00  INFO 8456 --- [restartedMain] top.zhu.springboot.logging.Application   : Starting Application using Java 17.0.12 with PID 8456 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-09-09T19:45:46.242+08:00  INFO 8456 --- [restartedMain] top.zhu.springboot.logging.Application   : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T19:45:46.271+08:00  INFO 8456 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-09T19:45:46.272+08:00  INFO 8456 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-09T19:45:46.819+08:00  INFO 8456 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T19:45:46.831+08:00  INFO 8456 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T19:45:46.831+08:00  INFO 8456 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T19:45:46.861+08:00  INFO 8456 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T19:45:46.861+08:00  INFO 8456 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 589 ms
+2024-09-09T19:45:47.060+08:00  WARN 8456 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-09-09T19:45:47.076+08:00  WARN 8456 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-09-09T19:45:47.086+08:00  INFO 8456 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-09-09T19:45:47.098+08:00 ERROR 8456 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-09-09T19:46:24.585+08:00  INFO 22576 --- [restartedMain] top.zhu.springboot.logging.Application   : Starting Application using Java 17.0.12 with PID 22576 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-09-09T19:46:24.588+08:00  INFO 22576 --- [restartedMain] top.zhu.springboot.logging.Application   : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T19:46:24.616+08:00  INFO 22576 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-09T19:46:24.616+08:00  INFO 22576 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-09T19:46:25.152+08:00  INFO 22576 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T19:46:25.161+08:00  INFO 22576 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T19:46:25.162+08:00  INFO 22576 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T19:46:25.194+08:00  INFO 22576 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T19:46:25.194+08:00  INFO 22576 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 577 ms
+2024-09-09T19:46:25.393+08:00  WARN 22576 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-09-09T19:46:25.408+08:00  WARN 22576 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-09-09T19:46:25.418+08:00  INFO 22576 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-09-09T19:46:25.429+08:00 ERROR 22576 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-09-09T19:49:03.835+08:00  INFO 8408 --- [restartedMain] top.zhu.springboot.logging.Application   : Starting Application using Java 17.0.12 with PID 8408 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-09-09T19:49:03.837+08:00  INFO 8408 --- [restartedMain] top.zhu.springboot.logging.Application   : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T19:49:03.868+08:00  INFO 8408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-09T19:49:03.868+08:00  INFO 8408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-09T19:49:04.453+08:00  INFO 8408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T19:49:04.462+08:00  INFO 8408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T19:49:04.463+08:00  INFO 8408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T19:49:04.506+08:00  INFO 8408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T19:49:04.506+08:00  INFO 8408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 638 ms
+2024-09-09T19:49:04.718+08:00  WARN 8408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-09-09T19:49:04.729+08:00  WARN 8408 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-09-09T19:49:04.739+08:00  INFO 8408 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-09-09T19:49:04.751+08:00 ERROR 8408 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-09-09T19:49:35.057+08:00  INFO 17384 --- [restartedMain] top.zhu.springboot.logging.Application   : Starting Application using Java 17.0.12 with PID 17384 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-09-09T19:49:35.058+08:00  INFO 17384 --- [restartedMain] top.zhu.springboot.logging.Application   : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T19:49:35.086+08:00  INFO 17384 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-09T19:49:35.086+08:00  INFO 17384 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-09T19:49:35.623+08:00  INFO 17384 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T19:49:35.638+08:00  INFO 17384 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T19:49:35.638+08:00  INFO 17384 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T19:49:35.668+08:00  INFO 17384 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T19:49:35.668+08:00  INFO 17384 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 582 ms
+2024-09-09T19:49:35.865+08:00  WARN 17384 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2024-09-09T19:49:35.878+08:00  WARN 17384 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-09-09T19:49:35.887+08:00  INFO 17384 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-09-09T19:49:35.900+08:00 ERROR 17384 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-09-09T19:50:46.460+08:00  INFO 20516 --- [restartedMain] top.zhu.springboot.logging.Application   : Starting Application using Java 17.0.12 with PID 20516 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-09-09T19:50:46.462+08:00  INFO 20516 --- [restartedMain] top.zhu.springboot.logging.Application   : No active profile set, falling back to 1 default profile: "default"
+2024-09-09T19:50:46.500+08:00  INFO 20516 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-09T19:50:46.500+08:00  INFO 20516 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-09T19:50:47.078+08:00  INFO 20516 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-09-09T19:50:47.088+08:00  INFO 20516 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-09T19:50:47.088+08:00  INFO 20516 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-09T19:50:47.117+08:00  INFO 20516 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-09T19:50:47.118+08:00  INFO 20516 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 616 ms
+2024-09-09T19:50:47.322+08:00  INFO 20516 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-09-09T19:50:47.350+08:00  INFO 20516 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-09-09T19:50:47.356+08:00  INFO 20516 --- [restartedMain] top.zhu.springboot.logging.Application   : Started Application in 1.234 seconds (process running for 1.737)
+2024-09-09T19:50:54.402+08:00  INFO 20516 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-09T19:50:54.402+08:00  INFO 20516 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-09-09T19:50:54.403+08:00  INFO 20516 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-09-09T19:50:54.424+08:00  INFO 20516 --- [http-nio-8080-exec-1] t.z.s.logging.controller.LogController   : This is a INFO log
+2024-09-09T19:50:54.424+08:00  WARN 20516 --- [http-nio-8080-exec-1] t.z.s.logging.controller.LogController   : This is a WARN log
+2024-09-09T19:50:54.425+08:00 ERROR 20516 --- [http-nio-8080-exec-1] t.z.s.logging.controller.LogController   : This is a ERROR log

@@ -1,0 +1,68 @@
+2024-952026220000000-13 1452026220:27:06.220 INFO  [restartedMain] top.zhu.springboot.logging.Application : Starting Application using Java 17.0.12 with PID 25080 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-952026229000000-13 1452026229:27:06.229 INFO  [restartedMain] top.zhu.springboot.logging.Application : No active profile set, falling back to 1 default profile: "default"
+2024-952026267000000-13 1452026267:27:06.267 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-952026267000000-13 1452026267:27:06.267 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-952027051000000-13 1452027051:27:07.051 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port 8080 (http)
+2024-952027062000000-13 1452027062:27:07.062 INFO  [restartedMain] org.apache.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-8080"]
+2024-952027065000000-13 1452027065:27:07.065 INFO  [restartedMain] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2024-952027066000000-13 1452027066:27:07.066 INFO  [restartedMain] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-952027112000000-13 1452027112:27:07.112 INFO  [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2024-952027112000000-13 1452027112:27:07.112 INFO  [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 844 ms
+2024-952027424000000-13 1452027424:27:07.424 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2024-952027433000000-13 1452027433:27:07.433 INFO  [restartedMain] org.apache.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-8080"]
+2024-952027450000000-13 1452027450:27:07.450 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port 8080 (http) with context path '/'
+2024-952027461000000-13 1452027461:27:07.461 INFO  [restartedMain] top.zhu.springboot.logging.Application : Started Application in 1.683 seconds (process running for 2.717)
+2024-952056316000000-13 1452056316:27:36.316 INFO  [http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-952056316000000-13 1452056316:27:36.316 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet : Initializing Servlet 'dispatcherServlet'
+2024-952056317000000-13 1452056317:27:36.317 INFO  [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet : Completed initialization in 0 ms
+2024-952669445000000-13 1452669445:37:49.445 INFO  [File Watcher] org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener : Restarting due to 4 class path changes (0 additions, 4 deletions, 0 modifications)
+2024-952669448000000-13 1452669448:37:49.448 INFO  [Thread-5] org.apache.coyote.http11.Http11NioProtocol : Stopping ProtocolHandler ["http-nio-8080"]
+2024-952672419000000-13 1452672419:37:52.419 INFO  [restartedMain] top.zhu.springboot.logging.Application : Starting Application using Java 17.0.12 with PID 25080 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-952672419000000-13 1452672419:37:52.419 INFO  [restartedMain] top.zhu.springboot.logging.Application : No active profile set, falling back to 1 default profile: "default"
+2024-952672614000000-13 1452672614:37:52.614 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port 8080 (http)
+2024-952672616000000-13 1452672616:37:52.616 INFO  [restartedMain] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2024-952672616000000-13 1452672616:37:52.616 INFO  [restartedMain] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-952672630000000-13 1452672630:37:52.630 INFO  [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2024-952672631000000-13 1452672631:37:52.631 INFO  [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 210 ms
+2024-952672692000000-13 1452672692:37:52.692 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2024-952672702000000-13 1452672702:37:52.702 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port 8080 (http) with context path '/'
+2024-952672705000000-13 1452672705:37:52.705 INFO  [restartedMain] top.zhu.springboot.logging.Application : Started Application in 0.317 seconds (process running for 647.96)
+2024-952672707000000-13 1452672707:37:52.707 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-952675124000000-13 1452675124:37:55.124 INFO  [File Watcher] org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2024-952675336000000-13 1452675336:37:55.336 INFO  [restartedMain] top.zhu.springboot.logging.Application : Starting Application using Java 17.0.12 with PID 25080 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-952675337000000-13 1452675337:37:55.337 INFO  [restartedMain] top.zhu.springboot.logging.Application : No active profile set, falling back to 1 default profile: "default"
+2024-952675443000000-13 1452675443:37:55.443 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port 8080 (http)
+2024-952675443000000-13 1452675443:37:55.443 INFO  [restartedMain] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2024-952675443000000-13 1452675443:37:55.443 INFO  [restartedMain] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-952675450000000-13 1452675450:37:55.450 INFO  [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2024-952675450000000-13 1452675450:37:55.450 INFO  [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 112 ms
+2024-952675481000000-13 1452675481:37:55.481 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2024-952675486000000-13 1452675486:37:55.486 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port 8080 (http) with context path '/'
+2024-952675489000000-13 1452675489:37:55.489 INFO  [restartedMain] top.zhu.springboot.logging.Application : Started Application in 0.17 seconds (process running for 650.744)
+2024-952675489000000-13 1452675489:37:55.489 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-952728491000000-13 1452728491:38:48.491 INFO  [File Watcher] org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2024-952728799000000-13 1452728799:38:48.799 INFO  [restartedMain] top.zhu.springboot.logging.Application : Starting Application using Java 17.0.12 with PID 25080 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-952728799000000-13 1452728799:38:48.799 INFO  [restartedMain] top.zhu.springboot.logging.Application : No active profile set, falling back to 1 default profile: "default"
+2024-952728957000000-13 1452728957:38:48.957 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port 8080 (http)
+2024-952728958000000-13 1452728958:38:48.958 INFO  [restartedMain] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2024-952728958000000-13 1452728958:38:48.958 INFO  [restartedMain] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-952728967000000-13 1452728967:38:48.967 INFO  [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2024-952728967000000-13 1452728967:38:48.967 INFO  [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 165 ms
+2024-952729023000000-13 1452729023:38:49.023 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2024-952729029000000-13 1452729029:38:49.029 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port 8080 (http) with context path '/'
+2024-952729032000000-13 1452729032:38:49.032 INFO  [restartedMain] top.zhu.springboot.logging.Application : Started Application in 0.257 seconds (process running for 704.288)
+2024-952729033000000-13 1452729033:38:49.033 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-957606832000000-13 1657606832:00:06.832 INFO  [restartedMain] top.zhu.springboot.logging.Application : Starting Application using Java 17.0.12 with PID 7452 (E:\SpringProject\spring-boot-practice\spring-boot-logging\target\classes started by ASUS in E:\SpringProject\spring-boot-practice)
+2024-957606833000000-13 1657606833:00:06.833 INFO  [restartedMain] top.zhu.springboot.logging.Application : No active profile set, falling back to 1 default profile: "default"
+2024-957606863000000-13 1657606863:00:06.863 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-957606863000000-13 1657606863:00:06.863 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-957607413000000-13 1657607413:00:07.413 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port 8080 (http)
+2024-957607419000000-13 1657607419:00:07.419 INFO  [restartedMain] org.apache.coyote.http11.Http11NioProtocol : Initializing ProtocolHandler ["http-nio-8080"]
+2024-957607422000000-13 1657607422:00:07.422 INFO  [restartedMain] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2024-957607422000000-13 1657607422:00:07.422 INFO  [restartedMain] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-957607453000000-13 1657607453:00:07.453 INFO  [restartedMain] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2024-957607453000000-13 1657607453:00:07.453 INFO  [restartedMain] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 590 ms
+2024-957607669000000-13 1657607669:00:07.669 WARN  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer : Unable to start LiveReload server
+2024-957607681000000-13 1657607681:00:07.681 INFO  [restartedMain] org.apache.coyote.http11.Http11NioProtocol : Starting ProtocolHandler ["http-nio-8080"]
+2024-957607701000000-13 1657607701:00:07.701 INFO  [restartedMain] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port 8080 (http) with context path '/'
+2024-957607709000000-13 1657607709:00:07.709 INFO  [restartedMain] top.zhu.springboot.logging.Application : Started Application in 1.247 seconds (process running for 1.68)

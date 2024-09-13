@@ -1,0 +1,11 @@
+logging:
+  level:
+    root: info
+    top.zhu.springboot.thymeleaf: debug
+
+spring:
+  thymeleaf:
+    cache: false
+
+server:
+  port: 8082
