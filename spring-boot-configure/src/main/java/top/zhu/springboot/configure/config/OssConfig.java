@@ -1,0 +1,4 @@
+package top.zhu.springboot.configure.config;
+
+public class OssConfig {
+}
